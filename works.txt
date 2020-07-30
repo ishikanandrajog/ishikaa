@@ -1,0 +1,55 @@
+<html>
+ <head>
+  <title>Ishika Nandrajog-19BAM0046</title>
+  </head>
+  <style>
+    h3{
+font-family: 'Merriweather Sans', sans-serif;
+color:#fa7d09;
+padding-top:2%;
+ font-size:3rem;}
+    
+    hr{padding-bottom:2%;
+   border-style: none;
+   border-top-style: dotted;
+   border-color: #dddddd;
+   border-width: 5px;
+   width: 5%;
+}
+ 
+</style>
+ 
+<body>
+<center><h3>WORKS</h3></center>
+<hr>
+ 
+  <center>
+    <table>
+<thead>
+    </thead>
+    </tbody>
+<tr>
+  <td><img class="img" src="https://scontent-del1-1.xx.fbcdn.net/v/t1.0-9/116161283_958022394672964_6737935278095453730_n.jpg?_nc_cat=107&_nc_sid=730e14&_nc_ohc=9F57-3wh6oQAX-BL6cZ&_nc_ht=scontent-del1-1.xx&oh=cd7a084236a0b23b9a6f9fcca62debe8&oe=5F46B890"width="400" height="400"></td>
+
+
+ <td><img class="img" src="https://scontent-del1-1.cdninstagram.com/v/t51.2885-15/e35/97117399_677767353063802_9144878318450224037_n.jpg?_nc_ht=scontent-del1-1.cdninstagram.com&_nc_cat=110&_nc_ohc=bCjhDt9EfZwAX98Xcy4&oh=c42cdd43877b61d6ece45a336ef35d52&oe=5F48C0AD"width="400" height="400"></td>
+
+
+
+<td><img class="img" src="https://scontent-del1-1.cdninstagram.com/v/t51.2885-19/s320x320/103379332_697707440803058_488470691497117681_n.jpg?_nc_ht=scontent-del1-1.cdninstagram.com&_nc_ohc=cVLXKuSlGLkAX9e-VXd&oh=701912f6e8ecb7411c245b8743931ceb&oe=5F4991B6"width="400" height="400"></td></tr>
+
+<tr>
+  <td>
+ <img class="img" src="https://scontent-del1-1.cdninstagram.com/v/t51.2885-15/e35/62518321_397449451112285_705305815792830311_n.jpg?_nc_ht=scontent-del1-1.cdninstagram.com&_nc_cat=105&_nc_ohc=jm5rC2YlN24AX_DJRwF&oh=e37d1d9e3de9b16c0473014abb966632&oe=5F4742BE"width="400" height="500"></td>
+
+
+
+ <td><img class="img" src="https://scontent-del1-1.cdninstagram.com/v/t51.2885-15/e35/70478285_386178502049219_432398754358516314_n.jpg?_nc_ht=scontent-del1-1.cdninstagram.com&_nc_cat=111&_nc_ohc=lMQdOG-Zd6kAX8lGJkd&oh=4754d7a2108aa3ccd8b5151da8606e71&oe=5F49C0D7"width="400" height="500"></td>
+
+
+
+<td><img class="img" src="https://scontent-del1-1.cdninstagram.com/v/t51.2885-15/e35/60123731_460953238048126_7281496859261882027_n.jpg?_nc_ht=scontent-del1-1.cdninstagram.com&_nc_cat=110&_nc_ohc=CcR2xhVoRgkAX-19QSw&oh=8b4b6d6ce6a10625ceb8ae9bcd5efaf8&oe=5F480D85"width="400" height="500"></td></tr>
+  </center>
+</body>
+   </html>
+ 

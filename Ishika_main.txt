@@ -1,0 +1,56 @@
+<html>
+ <head>
+  <title>Ishika Nandrajog-19BAM0046</title>
+  
+   <link href="https://fonts.googleapis.com/css2?family=Montserrat&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="ishika_website.css">
+
+<body>
+  <nav>
+    <label class="brand">Ishika</label>
+    <ul>
+<li> <a class="hovr" href="">Home</a></li>
+<li> <a href="about.html">About</a></li>
+ <li> <a href="works.html">Works</a></li>
+<li> <a href="contact.html">Contact</a></li>
+<li> <a href="https://www.google.com/">Search</a></li>
+</ul>
+</nav>
+  
+  <section id="title">
+ <h1> Welcome To The World Of Art</h1>
+    <br>
+    <center> <style>
+.button {
+  background-color:#e7e7e7; 
+  border: none;
+  color: white;
+  padding: 16px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  transition-duration: 0.4s;
+  cursor: pointer;
+}
+
+.button4 {
+  background-color: #fa7d09;
+  color: white;
+  border: 2px solid #e7e7e7;
+ 
+}
+
+.button4:hover {background-color: #e7e7e7;
+      color: black;}
+</style>
+<div>
+      <button class="button button4">Shop Now</button></center>
+    <input type="submit" href="https://www.instagram.com/color_bliss_/">
+</div>
+  </section>
+  
+  
+   </body>
+   </html>
